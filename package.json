@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "serve": "http-serve"
+    },
+    "dependencies": {
+        "@triply/yasgui": "4.2.20",
+        "http-serve": "^1.0.1"
+    }
+}
